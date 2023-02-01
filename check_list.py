@@ -32,7 +32,7 @@ def update_readme_file():
                 new_list_README.append(value)
                 break
             else:
-                # Add song name witch NOT in README.md, by compare count number and len(list_of_songs)
+                # Add song name wich NOT in README.md, by compare count number and len(list_of_songs)
                 # If count number == len(list_of_songs) it's mean thet for loop search NOT find song name in README.md
                 if len(read_readme_file()) == count+1:
                     new_list_README.append('- <a href=" " target="_blank">'+i+'</a>\n')
