@@ -47,6 +47,7 @@
 - <a href="https://www.youtube.com/watch?v=8RvAKRoIDqU" target="_blank">Sam Smith - Diamonds</a>
 - <a href="https://www.youtube.com/watch?v=ANnNTwNieJg" target="_blank">Cut Off - Lonely </a>
 - <a href="https://www.youtube.com/watch?v=HHERRvuG-qs" target="_blank">Zubi - Sugar </a>
+- <a href="https://www.youtube.com/watch?v=NA6jNVCETbc" target="_blank">Beautiful Woman - Ramin feat. Staffan Carlen [Acoustic Group]</a>
 - [pop]
 - <a href="https://www.youtube.com/watch?v=bV-hSgL1R74" target="_blank">Halycon On and On</a>
 - <a href="https://www.youtube.com/watch?v=TdWEhMOrRpQ" target="_blank">Andrea Bocelli - Con Te Partiro</a>
