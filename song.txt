@@ -2,7 +2,7 @@ Imany - You Will Never Know (Clip Officiel)
 Imany - Don't Be So Shy (Filatov & Karas Remix)
 Linda Jo Rizzo - You're My First, You're My Last
 Alan Walker - Faded
-
+Blue Motorbike – Moto Boy
 Sweet but Psycho - Ava Max (Lyrics)
 
 Eastblock Bitches, OBS - Virus
@@ -59,8 +59,13 @@ dua lipa - be the one
 Sam Smith - Diamonds
 Cut Off - Lonely 
 Zubi - Sugar 
+<<<<<<< HEAD
 Beautiful Woman - Ramin feat. Staffan Carlen [Acoustic Group]
 
+=======
+Chela - Zero
+ 
+>>>>>>> 164c6dbfc93f97adf3370d59d5e53b7ee3321b25
 [pop]
 Halycon On and On
 Andrea Bocelli - Con Te Partiro

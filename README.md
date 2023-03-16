@@ -2,6 +2,7 @@
 - <a href="https://www.youtube.com/watch?v=b1_B-IKEufg" target="_blank">Imany - Don't Be So Shy (Filatov & Karas Remix)</a>
 - <a href="https://www.youtube.com/watch?v=_kX0_fJ1N8M" target="_blank">Linda Jo Rizzo - You're My First, You're My Last</a>
 - <a href="https://www.youtube.com/watch?v=60ItHLz5WEA" target="_blank">Alan Walker - Faded</a>
+- <a href="https://www.youtube.com/watch?v=RcLWrjzuoDQ" target="_blank">Blue Motorbike – Moto Boy</a>
 - <a href="https://www.youtube.com/watch?v=2KBFD0aoZy8" target="_blank">Sweet but Psycho - Ava Max (Lyrics)</a>
 - <a href="https://www.youtube.com/watch?v=aWYjlRL3pMw" target="_blank">Eastblock Bitches, OBS - Virus</a>
 - <a href="https://www.youtube.com/watch?v=ox4tmEV6-QU" target="_blank">Alan Walker, K-391 & Emelie Hollow - Lily </a>
@@ -47,7 +48,11 @@
 - <a href="https://www.youtube.com/watch?v=8RvAKRoIDqU" target="_blank">Sam Smith - Diamonds</a>
 - <a href="https://www.youtube.com/watch?v=ANnNTwNieJg" target="_blank">Cut Off - Lonely </a>
 - <a href="https://www.youtube.com/watch?v=HHERRvuG-qs" target="_blank">Zubi - Sugar </a>
+<<<<<<< HEAD
 - <a href="https://www.youtube.com/watch?v=NA6jNVCETbc" target="_blank">Beautiful Woman - Ramin feat. Staffan Carlen [Acoustic Group]</a>
+=======
+- <a href="https://www.youtube.com/watch?v=eoHqHGPLqW0" target="_blank">Chela - Zero</a>
+>>>>>>> 164c6dbfc93f97adf3370d59d5e53b7ee3321b25
 - [pop]
 - <a href="https://www.youtube.com/watch?v=bV-hSgL1R74" target="_blank">Halycon On and On</a>
 - <a href="https://www.youtube.com/watch?v=TdWEhMOrRpQ" target="_blank">Andrea Bocelli - Con Te Partiro</a>
